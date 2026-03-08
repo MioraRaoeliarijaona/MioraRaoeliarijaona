@@ -1,41 +1,20 @@
-<!-- GitHub Profile README for Miora -->
-<h1 align="center">Hey there! I'm Miora 👋</h1>
+<h1 align="center">Hary Miora Raoeliarijaona</h1>
 
 <p align="center">
-  Fullstack web developer
+Full-Stack Web Developer
 </p>
 
 ---
 
-### A little bit about me
+### About
 
-I'm a curious and passionate developer who enjoys exploring new tools, frameworks, and ideas.  
-I like creating clean, user-friendly web apps — and I’m always trying to improve and learn more every day.
-
----
-
-### Tech I work with
-
-These are some of the tools and technologies I use often:
-
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Remix](https://img.shields.io/badge/-Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+I am a web developer focused on building clean, scalable and user-friendly applications.  
+I enjoy designing efficient systems, improving development practices, and continuously learning new technologies.
 
 ---
 
-### Let’s connect
+### Work
 
-If you want to talk about a project, feel free to reach out!  
-  [raoeliarijaonamiora@gmail.com](mailto:raoeliarijaonamiora@gmail.com)
+Most of my projects focus on modern web applications, backend services, and database-driven systems.
 
 ---
-
-<p align="center">
-  Thanks for stopping by ❤ 
-</p>
